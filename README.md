@@ -15,6 +15,11 @@
 <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azrael-S3211&theme=github_dark"/>
 <br>
 
-<!--*************************************************Snake********************************************************** --> 
+<!--******************************************(* Pac Man ************************************************ --> 
 
-![snake gif](https://github.com/PkLavc/PkLavc/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PkLavc/PkLavc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PkLavc/PkLavc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PkLavc/PkLavc/output/pacman-contribution-graph.svg">
+</picture>
+
