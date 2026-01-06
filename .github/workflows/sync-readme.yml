@@ -1,0 +1,35 @@
+name: Sync README from PkLavc
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # a cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout secondary profile repo
+        uses: actions/checkout@v4
+
+      - name: Download README from main profile
+        run: |
+          curl -s https://raw.githubusercontent.com/PkLavc/PkLavc/main/README.md -o README.main.md
+
+      - name: Build secondary README
+        run: |
+          echo "<!-- AUTO-GENERATED: DO NOT EDIT -->" > README.md
+          echo "" >> README.md
+          echo "> ⚠️ **Conta secundária** — perfil principal:" >> README.md
+          echo "> https://github.com/PkLavc" >> README.md
+          echo "" >> README.md
+          cat README.main.md >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "sync: update README from PkLavc" || echo "No changes"
+          git push
