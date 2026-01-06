@@ -21,7 +21,7 @@ jobs:
         run: |
           echo "<!-- AUTO-GENERATED: DO NOT EDIT -->" > README.md
           echo "" >> README.md
-          echo "> ⚠️ **Conta secundária** — perfil principal:" >> README.md
+          echo "> ⚠️ **Secondary account** — primary profile:" >> README.md
           echo "> https://github.com/PkLavc" >> README.md
           echo "" >> README.md
           cat README.main.md >> README.md
