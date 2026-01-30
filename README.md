@@ -28,26 +28,56 @@ Open to remote international contracts.
 
 ### Professional Experience
 
-• **Software Engineer (Contractor)** — Loja do Sapo  
-*September 2025 – Present*  
-- Lead process automation, data, and technology initiatives  
-- Build and maintain data pipelines, APIs, and system integrations  
-- Develop automation using Python, Deluge, and JavaScript  
-- Create dashboards and KPIs in Looker Studio  
-- Manage internal servers and technical infrastructure  
+<p>
+  <img align="left" height="42" src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-loja-do-sapo.png" style="margin-right: 15px;" />
+  <b>Software Engineer (Contractor)</b> — Loja do Sapo<br>
+  <i>September 2025 – Present</i>
+</p>
 
-• **Engineering Intern** — Loja do Sapo  
-*October 2024 – August 2025*  
-- Developed automation scripts and data processing solutions  
-- Built dashboards and analytics in Looker Studio  
-- Worked with Python for data analysis and automation  
-- Implemented API integrations and workflow automations  
+- Lead process automation, data, and technology initiatives
+- Build and maintain data pipelines, APIs, and system integrations
+- Develop automation using Python, Deluge, and JavaScript
+- Create dashboards and KPIs in Looker Studio
+- Manage internal servers and technical infrastructure
 
-• **Office Assistant** — WR Auto Peças  
-*November 2015 – Present*  
-- Developed and maintained automation and data analysis tools using Python  
-- Provided technical support and system maintenance  
-- Managed financial, administrative, and operational processes  
+<br>
+
+**Engineering Intern**  
+*October 2024 – August 2025*
+- Developed automation scripts and data processing solutions
+- Built dashboards and analytics in Looker Studio
+- Worked with Python for data analysis and automation
+- Implemented API integrations and workflow automations
+
+<br clear="left"/>
+<br/>
+
+<p>
+  <img align="left" width="85" src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-icaiu.png" style="margin-right: 15px; margin-top: 5px;" />
+  <b>Software Engineering Collaboration</b> — iCaiu<br>
+  <i>March 2025 – Present</i>
+</p>
+
+- Technical collaboration supporting software, data, and automation initiatives
+- Supporting automation and workflow improvements across internal systems
+- Assisting with data processing, system integrations, and reporting solutions
+- Collaborating on backend services and REST API integrations
+- Providing hands-on technical support for operational and technology-driven processes
+
+<br clear="left"/>
+<br/>
+
+<p>
+  <img align="left" width="85" src="https://raw.githubusercontent.com/PkLavc/PkLavc/e158b54267226ba98162945be674baa6978a566f/resources/Icons/Static/logo-wr.png" style="margin-right: 15px; margin-top: 5px;" />
+  <b>Office Assistant</b> — WR Auto Peças<br>
+  <i>November 2015 – March 2026</i>
+</p>
+
+- Developed and maintained automation and data analysis tools using Python
+- Provided technical support and system maintenance
+- Managed financial, administrative, and operational processes
+
+<br clear="left"/>
 
 <!-- ************************************************** Bar ***************************************************** -->
 
