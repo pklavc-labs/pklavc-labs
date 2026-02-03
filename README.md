@@ -11,13 +11,11 @@
 
 ### About Me
 
-Software Engineer (Contractor) delivering backend systems, automation, and cloud solutions (AWS) for production workloads.  
-Experienced in building end-to-end systems, APIs, data pipelines, dashboards, KPIs, and maintaining production environments using Python, JavaScript, SQL, and AWS.  
-Experience with cloud-based deployments, containerized applications (Docker), basic CI/CD workflows, and system observability concepts.
+Contract Software Engineer and Computer Engineering student delivering **custom software solutions**, including **backend systems, workflow automation, APIs, dashboards, data pipelines, and web applications**. I build **scalable, maintainable, and efficient systems** that streamline operations and optimize workflows.  
 
-Computer Engineering student with a solid engineering mindset and hands-on experience delivering scalable, reliable, and efficient solutions.
+Experienced in **Python, JavaScript, Deluge, SQL, REST APIs, HTML, and AWS fundamentals**, with hands-on experience in **automation, system integrations, reporting tools, and internal platforms**. Previous roles in administration and operations strengthened my **organization, accountability, and process optimization skills**.  
 
-**Open to remote international contracts.**
+**Open to remote international contracts**, providing practical, reliable, and business-focused solutions for teams and organizations of any size.
 
 <!-- ************************************************** Bar ***************************************************** -->
 
