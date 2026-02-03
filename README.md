@@ -9,16 +9,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=false&vCenter=false&repeat=true&width=760&lines=Software+Engineer+%7C+Contractor;Python+%7C+JavaScript+%7C+APIs+%7C+AWS;Backend+Development+%7C+Automation+%7C+Integrations;Open+to+Remote+International+Contracts)](https://git.io/typing-svg)
 
-<img align="right" height="195px" alt="Skyler - GIF" src="https://github.com/PkLavc/PkLavc/blob/main/Skyler/Skyler.gif?raw=true" style="flex-shrink: 0;" />
-
 ### About Me
 
 Software Engineer (Contractor) delivering backend systems, automation, and cloud solutions (AWS) for production workloads.  
 Experienced in building end-to-end systems, APIs, data pipelines, dashboards, KPIs, and maintaining production environments using Python, JavaScript, SQL, and AWS.  
-Proficient in cloud deployment, containerization (Docker), CI/CD pipelines, and observability (logging & tracing).
+Experience with cloud-based deployments, containerized applications (Docker), basic CI/CD workflows, and system observability concepts.
 
 Computer Engineering student with a solid engineering mindset and hands-on experience delivering scalable, reliable, and efficient solutions.
-Open to remote international contracts.
+
+**Open to remote international contracts.**
 
 <!-- ************************************************** Bar ***************************************************** -->
 
@@ -35,7 +34,7 @@ Open to remote international contracts.
 </p>
 
 - Lead process automation, data, and technology initiatives
-- Build and maintain data pipelines, APIs, and system integrations
+- Build and maintain automation workflows, APIs, and system integrations
 - Develop automation using Python, Deluge, and JavaScript
 - Create dashboards and KPIs in Looker Studio
 - Manage internal servers and technical infrastructure
@@ -76,6 +75,7 @@ Open to remote international contracts.
 - Developed and maintained automation and data analysis tools using Python
 - Provided technical support and system maintenance
 - Managed financial, administrative, and operational processes
+- Built and maintained internal and institutional web pages using HTML to support reports and operational workflows
 
 <br clear="left"/>
 
@@ -88,18 +88,17 @@ Open to remote international contracts.
 ### Core Skills
 
 **Programming Languages**
-- Python, Java, JavaScript, SQL, Deluge
+- Python, JavaScript, SQL, Java, Deluge
 
-**Data Engineering**
-- Data Pipelines (ETL/ELT)
-- Data Processing & Automation
-- Data Modeling
+**Automation & Data Processing**
+- Workflow Automation
+- Data Processing
+- ETL Concepts
 - SQL Optimization
 
 **Backend & Integrations**
 - RESTful APIs
 - System Integrations
-- Workflow Automation
 - Third-Party APIs
 
 **Analytics & Visualization**
@@ -232,17 +231,12 @@ Centro Universitário Newton Paiva
 <!-- **************************************** GitHub Stats **************************************** -->
 <br>
 <div>
-  <img height="20" alt="GIF"
-       src="https://github.com/PkLavc/PkLavc/blob/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif?raw=true"/>
+  <img height="20" alt="GIF" 
+       src="https://raw.githubusercontent.com/PkLavc/PkLavc/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif"/>
   <b> GitHub Stats</b>
 </div>
 <br>
 
-<div>
-  <img alt="GitHub Stats" width="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PkLavc&theme=github_dark"/>
-  <img alt="GitHub Top Langs" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
-  <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PkLavc&theme=github_dark"/>
-</div>
 
 <!-- **************************************** Support / Counter **************************************** -->
 
