@@ -192,29 +192,6 @@ Centro Universitário Newton Paiva
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
-<!-- ************************************************* Contacts **************************************************** -->
-
-<div>
-  <img height="20" alt="GIF" src="https://github.com/PkLavc/PkLavc.github.io/blob/26012177cc013e7e7aa0c1cd35ce8f32466f9695/images/link.gif?raw=true"/>
-  <b> Contact</b>
-</div>
-<br>
-<div>
-  <a href="https://www.linkedin.com/in/patrickajm/" target="_blank">
-    <img alt="LinkedIn" height="28"
-         src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:patrickajm@gmail.com" target="_blank">
-    <img alt="Email" height="28"
-         src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"/>
-  </a>
-</div>
-<br>
-<!-- ************************************************** Bar ***************************************************** -->
-
-<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
-
 <!-- ************************************************* Icons **************************************************** -->
 
 <!-- Languages I use the most -->
@@ -254,10 +231,12 @@ Centro Universitário Newton Paiva
        src="https://raw.githubusercontent.com/PkLavc/PkLavc/c0007529d1c2f8a7b04fad9a91da960e9625ad6d/resources/Icons/Animated/stats-graphic.gif"/>
   <b> GitHub Stats</b>
 </div>
-<br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PkLavc&layout=compact&theme=tokyonight&title_color=00d1ff&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PkLavc&show_icons=true&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&hide_border=true&bg_color=00000000&hide=issues,contribs,discussions_started,discussions_answered&hide_rank=true&show=prs_merged" />
+<img width="450px" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=PkLavc&theme=tokyonight&fire=00d1ff&ring=00d1ff&currStreakLabel=00d1ff&background=00000000&hide_border=true&stroke=00d1ff" alt="PkLavc Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PkLavc&layout=compact&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&hide_border=true&bg_color=00000000" />
 
+<br/>
 
 <!-- **************************************** Support / Counter **************************************** -->
 
